@@ -1,4 +1,4 @@
-<h1 align="center">Hello👋, im Lucas Ribeiro Diniz</h1>
+<h1 align="center">Hello👋, im Lucas Ribeiro</h1>
 <h3 align="center">Computer Science Undergraduate at CESAR School</h3>
 
 - 📫 How to reach me **lucas.rdiniz01@gmail.com**
